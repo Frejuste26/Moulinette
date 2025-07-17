@@ -1,5 +1,4 @@
-# 📊 Moulinette Inventaire - Gestion Automatisée des Stocks de Production
-
+# 📊 Moulinette - Automatisation du Processus d'inventaire
 ---
 
 ## 🚀 Contexte du Projet
