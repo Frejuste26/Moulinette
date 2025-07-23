@@ -10,7 +10,7 @@ Objectif : **gain de temps**, **réduction des erreurs humaines**, **suivi clair
 
 ## 🛠️ Stack Technique
 - **Backend** : Python + Flask  
-- **Frontend** : Vue.js  
+- **Frontend** : React  
 - **Base de Données** : MySQL  
 - **Librairies clés** : Pandas, OpenPyXL, XlsxWriter  
 - **Hébergement** : Serveur interne  
